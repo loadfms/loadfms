@@ -1,2 +1,2 @@
-# Hi 👋, I'm Leonardo Silva
+# Hi 👋, I'm Leo
 ### A passionate developer from Brazil
